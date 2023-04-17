@@ -18,6 +18,9 @@ Angular image magnifier without using external library.
         https://npmjs.com/angular-image-magnifier
 
 
+![Uploading 5000.png…]()
+
+
 ---------------------Usage
 
 --------------------TS

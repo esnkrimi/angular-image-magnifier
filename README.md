@@ -15,7 +15,8 @@ Angular image magnifier without using external library.
 
   	    https://esn-magnifier-pro.stackblitz.io
 
-        https://github.com/esnkrimi/angular-image-magnifier
+        https://npmjs.com/angular-image-magnifier
+
 
 ---------------------Usage
 
@@ -31,12 +32,13 @@ Angular image magnifier without using external library.
 
 --------------------HTML
 
-        <div class="w-50">
         <esn-magnifier-pro 
             [imgUrl]="imgUrl" 
-            [option]="option">
+            [option]="option"
+            >
+            
         </esn-magnifier-pro>
-        </div>
+
 
 
 
